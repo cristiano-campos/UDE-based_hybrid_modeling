@@ -1,0 +1,11 @@
+{
+    "modelFile": "leakrelu_layer.jl",
+    "conditionFolder": "conditions_tiago_101pts",
+    "valSize": 10,
+    "testSize": 10,
+    "trainSize": 10,
+    "adamIterations": 2000,
+    "bfgsIterations": 1000,
+    "savePointsAt": 1,
+    "plotScatter": false
+}

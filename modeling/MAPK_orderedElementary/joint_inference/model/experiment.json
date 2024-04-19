@@ -1,0 +1,11 @@
+{
+    "modelFile": "ude_neuralnetwork.jl",
+    "conditionFolder": "conditions_markevich_101pts",
+    "valSize": 100,
+    "testSize": 100,
+    "trainSize": 100,
+    "adamIterations": 2000,
+    "bfgsIterations": 1000,
+    "savePointsAt": 1,
+    "plotScatter": false
+}
